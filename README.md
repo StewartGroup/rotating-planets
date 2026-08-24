@@ -13,5 +13,5 @@ This repository contains:
 
 To execute the Jupyter notebooks in this GitHub repository, build the conda environment:<p>
 
-`conda env create -f environment-rotating-planets.yml`<br>
+`conda env create -f rotating-planets.yml`<br>
 `conda activate rotating-planets`<p>
