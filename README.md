@@ -5,11 +5,13 @@ This repository contains supplemental materials and replication code and data fo
 The supplementary data and replication are archived at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21794482.svg)](https://doi.org/10.5281/zenodo.21794482)
 
 This repository contains:
-* Jupyter notebook (ipynb files) for generating Figures 1-5, 7-11, and 14-15
+* Jupyter notebook (ipynb files) for generating Figures 1-5, 7-11, and 14-15 (Manuscript_figures.ipynb)
   - Also includes .csv data files
   - & python .yaml environment file
-* Wolfram Mathematica notebook for generating Figures 6, and 12-13.
+* Wolfram Mathematica notebook for generating Figures 6, and 12-13. (fit_data_3.nb)
   - This notebook also contains some additional plots describing the scaling law fitting methodology
+* Notebook for generating model planet thermal profiles (Makeplanet_share.ipynb)
+* Notebook for generating HERCULES data files for execution (HERCULES_prep.ipynb)
 
 To execute the Jupyter notebooks in this GitHub repository, build the conda environment:<p>
 
