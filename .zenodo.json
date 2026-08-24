@@ -1,0 +1,26 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0009-5324-4184",
+            "affiliation": "University of New Brunswick",
+            "name": "Postema, Adriana N."
+        },
+        {
+            "orcid": "0000-0001-5365-9616",
+            "affiliation": "University of Bristol",
+            "name": "Lock, Simon J."
+        },
+	{
+            "orcid": "0000-0001-9606-1593",
+            "affiliation": "Arizona State University",
+            "name": "Stewart, Sarah T."
+        }
+    ],
+
+    "license": "GPL-3.0",
+
+    "title": "Supplementary Materials for `Angular momenta and pressure relationships in rotating terrestrial planets`, submitted to The Planetary Science Journal, 2026",
+
+    "keywords": ["Planet formation", "Impact phenomena", "Planet rotation", "Planetary dynamics"]
+
+}
